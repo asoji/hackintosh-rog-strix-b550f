@@ -1,6 +1,8 @@
 # Hackintosh - ASUS ROG Strix B550-F Gaming (Wi-Fi)
 OpenCore EFI for ASUS ROG Strix B550-F Gaming (Wi-Fi) + AMD Ryzen 5 5600x + RX 570 8GB in a dual different GPU system.
 
+![Hackintosh Picture](https://github.com/asoji/hackintosh-rog-strix-b550f/assets/99072163/7c591098-6471-47be-9063-db749e1c5455)
+
 This will be updated throughout time as I use my hack more and figure things out and try to document em. **This is currently an incomplete README.**
 
 All files will be found [here](EFI).
