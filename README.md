@@ -14,7 +14,7 @@ This isn't my first time hackintoshing, probably the 3rd time as of making this 
 
 This time, this config was originally adapted from an OC EFI config that my boyfriend [@bluebeargreen-2](https://github.com/bluebeargreen-2) gave me and wasn't working originally for my system, even tho we have nearly identical motherboards, so I tried modifying it and cleaning it up to get it to work on my system, thank you Love. 💖
 
-I would not have gotten to this point without the help from my best friends either, mainly my friend group's Ruler of Hackintosh herself, [@dynamyc010](https://github.com/dynamyc010), and the other nerd who helped a bit along the way, [@CephalonCosmic](https://github.com/CephalonCosmic), who helped me with a few kexts stuff, and recommendations from her own hack. Of course my lovely boyfriend above helped me out as well, pointing out some small things along the way or making kext recommendations to each other to try to get each other's hacks working.
+I would not have gotten to this point without the help from my best friends either, mainly my friend group's Ruler of Hackintosh themselves, [@dynamyc010](https://github.com/dynamyc010), and the other nerd who helped a bit along the way, [@CephalonCosmic](https://github.com/CephalonCosmic), who helped me with a few kexts stuff, and recommendations from her own hack. Of course my lovely boyfriend above helped me out as well, pointing out some small things along the way or making kext recommendations to each other to try to get each other's hacks working.
 
 ## Resources
 - [The OpenCore Guide itself](https://dortania.github.io/OpenCore-Install-Guide/)
