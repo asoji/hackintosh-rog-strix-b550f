@@ -12,13 +12,13 @@ All files will be found [here](EFI).
 
 This isn't my first time hackintoshing, probably the 3rd time as of making this repository, but things got haha quirky oh my go- *cough*.
 
-This time, this config was originally adapted from an OC EFI config that my boyfriend @bluebeargreen-2 gave me and wasn't working originally for my system, even tho we have nearly identical motherboards, so I tried modifying it and cleaning it up to get it to work on my system, thank you Love. 💖
+This time, this config was originally adapted from an OC EFI config that my boyfriend [@bluebeargreen-2](https://github.com/bluebeargreen-2) gave me and wasn't working originally for my system, even tho we have nearly identical motherboards, so I tried modifying it and cleaning it up to get it to work on my system, thank you Love. 💖
 
-I would not have gotten to this point without the help from my best friends either, mainly my friend group's Queen of Hackintosh herself, @dynamyc010, and the other nerd who helped a bit along the way, @CephalonCosmic, who helped me with a few kexts stuff, and recommendations from her own hack. Of course my lovely boyfriend above helped me out as well, pointing out some small things along the way or making kext recommendations to each other to try to get each other's hacks working.
+I would not have gotten to this point without the help from my best friends either, mainly my friend group's Queen of Hackintosh herself, [@dynamyc010](https://github.com/dynamyc010), and the other nerd who helped a bit along the way, [@CephalonCosmic](https://github.com/CephalonCosmic), who helped me with a few kexts stuff, and recommendations from her own hack. Of course my lovely boyfriend above helped me out as well, pointing out some small things along the way or making kext recommendations to each other to try to get each other's hacks working.
 
 ## Resources
 - [The OpenCore Guide itself](https://dortania.github.io/OpenCore-Install-Guide/)
-- [Ryzentosh Guide](https://github.com/mikigal/ryzen-hackintosh#MKL-and-Intel-Fast-Memset-Patch)
+- [Ryzentosh Guide](https://github.com/mikigal/ryzen-hackintosh)
 - [r/hackintosh subreddit](https://reddit.com/r/hackintosh/)
 - [O3C](https://velickovicdj.github.io/O3C/) for Sanity Checking
 - A fuck ton of Googling and asking friends
