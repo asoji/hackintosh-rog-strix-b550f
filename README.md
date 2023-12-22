@@ -102,6 +102,10 @@ Reason why I have this is to disable my top slot NVIDIA GPU, and use only my bot
 | ResetNvramEntry |
 | ToggleSipEntry  |
 
+### Kernel Patches
+
+[Apply the almighty wonderful AMD Vanilla Patches](https://github.com/AMD-OSX/AMD_Vanilla/tree/master).
+
 ### Kexts
 
 Some of these might not even be needed, I'll clean em up later :sakaShrug:
